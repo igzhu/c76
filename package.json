@@ -1,0 +1,27 @@
+{
+  "name": "c76",
+  "version": "1.0.0",
+  "description": "NODE.JS_JEST_BABEL",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igzhu/c76.git"
+  },
+  "keywords": [
+    "Jest",
+    "Babel",
+    "npm"
+  ],
+  "author": "igzhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igzhu/c76/issues"
+  },
+  "homepage": "https://github.com/igzhu/c76#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
